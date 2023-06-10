@@ -1,7 +1,7 @@
 # Hey there. I'm Aina Mae Arroyo 🖥️
 </div>
 
-I'am a intern QA and Software Documentations. 
+I'am an intern QA and Software Documentations. 
 
 
 ### :fire: My Stats :
