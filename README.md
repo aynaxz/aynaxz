@@ -1,8 +1,12 @@
-# Hey there. I'm Aina Mae Arroyo 🖥️
-</div>
-
-I'am an intern QA and Software Documentations. 
-
+# Hey there! I'm Aina Mae Arroyo 🖥️
+<div>
+ 
+🖥️ Intern QA Tester <br>
+🖥️ I know how to use Project Management Tool - JIRA <br>
+🖥️ Software Documentations <br>
+🖥️ I have knowledge of HTML <br>
+🖥️ I have knowledge of CSS <br>
+🖥️ I have basic knowledge of PHP <br>
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aynaxz&theme=dark)](https://git.io/streak-stats)
